@@ -21,7 +21,7 @@
 #### 6. PFE
 #### 7. NVDA
 #### 8. F
-#### 9. CCL
+#### 9. COIN
 #### 10. AC
 ### Crypto: (5)
 #### 1. Bitcoin
@@ -34,3 +34,5 @@
 ​
 ## Brainstorming 
 ### - Selector for user interaction to modify analysis information.
+### - Have the weights section of the monte carlo match the ATR weighting calculation.
+### - Input function for tickers, share amount and share price 
